@@ -1,46 +1,48 @@
-# Getting Started with Create React App
+## About The Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- React Beaautiful dnd를 활용하여 canbanCard 만들기
+- recoil을 통한 전역 변수 관리 심화
+- Dark MODE, White MODE
 
-## Available Scripts
+### Built With
 
-In the project directory, you can run:
+- [![TypeScript][typescript]][typescript-url]
+- [![React][react.js]][react-url]
 
-### `npm start`
+### Library
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [![React Query][reactquery.js]][reactquery-url]
+- [![React Beautiful dnd][dnd.js]][dnd-url]
+- [![styled-component][styled-component.js]][styled-component-url]
+- [![recoil][recoil.js]][recoil-url]
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `npm test`
+## Acknowledgments
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+- [Malven's Grid Cheatsheet](https://grid.malven.co/)
+- [GitHub Pages](https://pages.github.com)
+- [Font Awesome](https://fontawesome.com)
+- [React Icons](https://react-icons.github.io/react-icons/search)
 
-### `npm run build`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[typescript]: https://img.shields.io/badge/-TypeScript-blue
+[reactquery.js]: https://img.shields.io/badge/-React%20Query-blue
+[dnd.js]: https://img.shields.io/badge/-%20react--beautiful--dnd-blue
+[styled-component.js]: https://img.shields.io/badge/-styled--components-blue
+[recoil.js]: https://img.shields.io/badge/-Recoil-blue
+[apexchart.js]: https://img.shields.io/badge/-apexChart-yellowgreen
+[typescript-url]: https://www.typescriptlang.org/
+[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
+[reactquery-url]: https://react-query-v3.tanstack.com/
+[dnd-url]: https://github.com/atlassian/react-beautiful-dnd
+[styled-component-url]: https://styled-components.com/
+[recoil-url]: https://recoiljs.org/ko/
+[apexchart-url]: https://apexcharts.com/
